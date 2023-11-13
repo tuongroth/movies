@@ -343,29 +343,11 @@ font-weight: 400;
 
  
 
-       .new
-        {
-        Max-width: 900px;
-        Margin-right: auto;
-        Margin-left: auto;
-        Display: grid;
-        Grid-template-columns: repeat(auto-fit, minmax(180px, auto));
-        Gap: 1rem;
-        Margin-top: 2rem;
-        }
-        
-       
-        
-        .new .neww img
-        { display: block;
-        Width: 100%;
-        Height: 100%;
-        Object-fit: cover;}
 
 
 .swiper {
       width: 100%;
-      height: 100%;
+      height: 270px;
     }
 
     .new {
